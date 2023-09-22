@@ -54,7 +54,7 @@ const Signup = () => {
                       Email
                     </Label>
                     <Input
-                      id="exampleEmail"
+                      id="Email"
                       name="email"
                       placeholder="Enter the Email Address"
                       type="email"
